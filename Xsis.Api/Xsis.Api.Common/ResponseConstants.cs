@@ -40,6 +40,18 @@ namespace Xsis.Api.Common
             errors = null
         };
 
+        public static BaseResponse DUPLICATE_ENTRY => new BaseResponse()
+        {
+            version = "1.0",
+            datetime = DateTime.UtcNow.ToString("u"),
+            timestamp = ((DateTimeOffset)DateTime.UtcNow).ToUnixTimeSeconds(),
+            status = "error",
+            code = 400,
+            message = "DUPLICATE ENTRY",
+            data = null,
+            errors = null
+        };
+
         public static BaseResponse NOT_FOUND => new BaseResponse()
         {
             version = "1.0",

@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Xsis.Api.Common\Xsis.Api.Common.csproj" />
+    <ProjectReference Include="..\Xsis.Data\Xsis.Data.csproj" />
   </ItemGroup>
 
 </Project>
