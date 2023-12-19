@@ -1,0 +1,15 @@
+Xsis.Api/.vs/
+Xsis.Api/packages/MSTest.TestAdapter.2.2.10/build/
+Xsis.Api/packages/MSTest.TestFramework.2.2.10/lib/
+Xsis.Api/Xsis.Api.Model/obj/
+Xsis.Api/Xsis.Api.Service/obj/
+Xsis.Api/Xsis.Api.Test/obj/
+Xsis.Api/Xsis.Api/bin/
+Xsis.Api/Xsis.Api/obj/
+Xsis.Api/Xsis.Api.Common/obj/
+Xsis.Api/packages/MSTest.TestFramework.2.2.10/build/
+Xsis.Api/Xsis.Api.Common/bin/
+Xsis.Api/Xsis.Api.Model/bin/
+Xsis.Api/Xsis.Api.Service/bin/
+Xsis.Api/Xsis.Data/bin/
+Xsis.Api/Xsis.Data/obj/
